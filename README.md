@@ -3,18 +3,23 @@
 <br>
 <br>
 
-> This plugin is only for Maven project. 
+> This plugin is only for Maven project.
+
+<br>
 
 # How to create menu
 ```sh
 InventoryAPI menu = new InventoryAPI("Title name", 3);
 ``` 
+<br>
+
 # How to set item to menu
 ```sh
 menu.setItem(10, Material.DIAMOND, "&aVIP", Arrays.asList("§7(Click to set)", (byte)0, 1));
 ```
+<br>
 
-### Informations
+## Informations
 
 | **My site**                                                                |
 |----------------------------------------------------------------------------|
