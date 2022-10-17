@@ -1,7 +1,6 @@
 <br>
 <h1 style="margin-top: 0.5rem; text-align: center; color: #bba531; text-decoration: underline;">InventoryAPI</h1>
 <br>
-<br>
 
 > This plugin is only for Maven project.
 
@@ -26,4 +25,6 @@ menu.setItem(10, Material.DIAMOND, "&aVIP", Arrays.asList("§7(Click to set)", (
 | **Github** - [Here](https://github.com/JustDrven)                          |
 | **SpigotMC** - [Here](https://www.spigotmc.org/members/justdrven.1443133/) |
 
-<h3 style="margin-top: 5rem; text-align: center;">Developed by: Drven</h3>
+<br>
+
+### Developed by Drven
