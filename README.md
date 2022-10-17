@@ -1,5 +1,8 @@
-# InventoryAPI
-> This plugin is only for Maven project.
+<h1 style="margin-top: 0.5rem; text-align: center; color: #bba531; text-decoration: underline;">InventoryAPI</h1>
+<br>
+
+> This plugin is only for Maven project. 
+
 # How to create menu
 ```sh
 InventoryAPI menu = new InventoryAPI("Title name", 3);
@@ -16,4 +19,4 @@ menu.setItem(10, Material.DIAMOND, "&aVIP", Arrays.asList("§7(Click to set)", (
 | **Github** - [Here](https://github.com/JustDrven)                          |
 | **SpigotMC** - [Here](https://www.spigotmc.org/members/justdrven.1443133/) |
 
-### Developed by: Drven
+<h3 style="margin-top: 5rem; text-align: center;">Developed by: Drven</h3>
