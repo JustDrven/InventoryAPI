@@ -1,0 +1,5 @@
+name: InventoryAPI
+version: '${project.version}'
+main: cz.drven.inventoryapi.main.Main
+authors: [ Drven ]
+description: Plugin for menus
