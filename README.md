@@ -1,4 +1,6 @@
+<br>
 <h1 style="margin-top: 0.5rem; text-align: center; color: #bba531; text-decoration: underline;">InventoryAPI</h1>
+<br>
 <br>
 
 > This plugin is only for Maven project. 
