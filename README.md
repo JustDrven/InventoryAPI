@@ -1,5 +1,5 @@
 <br>
-<h1 style="margin-top: 0.5rem; text-align: center; color: #bba531; text-decoration: underline;">InventoryAPI</h1>
+<h1 align="center" style="margin-top: 0.5rem; text-align: center; color: #bba531; text-decoration: underline;">InventoryAPI</h1>
 <br>
 <br>
 
